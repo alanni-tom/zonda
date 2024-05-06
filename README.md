@@ -2,7 +2,7 @@
 这是一款无用的 Burp 插件
 ### V1.0版本功能特点
 #### Decoder模块
-融入新的解码 `Unicode`, `Base64`, `TOR13`
+融入新的解码 `Unicode`, `Base32`, `TOR13`
 
 ![image](https://github.com/alanni-tom/zonda/assets/135570995/ba2d6c90-8c66-496e-8e5b-b8d99e9b7301)
 
