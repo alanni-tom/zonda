@@ -1,5 +1,5 @@
 # zonda
-这是一款基于Burp v2.1.07 + Java 1.8 开发的插件
+这是一款无用的 Burp 插件
 ### V1.0版本功能特点
 #### Decoder模块
 融入新的解码 `Unicode`, `Base64`, `TOR13`
